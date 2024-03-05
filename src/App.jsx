@@ -1,5 +1,5 @@
 import "./App.css";
-import Brand from "./NavbarComponent/Brand"
+import Brand from "./NavbarComponent/Brand";
 import Makeups from "./MakeupComponent/Makeups"
 import Navbar from "./NavbarComponent/Navbar"
 import Skin from "./MakeupComponent/Skin"
