@@ -25,6 +25,6 @@
 
 4. Community: You're not alone on BeautyBebo! You can connect with other beauty lovers, share your experiences, and learn from each other.
 
-####Conclusion:
+#### Conclusion:
 - So, there you have it! BeautyBebo is like your own personal beauty guru, helping you look and feel fabulous every day. Whether you're into makeup, skincare, or haircare, BeautyBebo has everything you need to unleash your inner beauty!
 
