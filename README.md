@@ -1,7 +1,5 @@
 # BeautyBebo-Website-clone
 
-!BeautyBebo Logo🤩![alt text](image.png)
-
 ### Introduction:
 - Hey there!👋 Have you ever heard about BeautyBebo? It's a super cool website where you can find all sorts of beauty products 💄and tips to help you look and feel amazing!🤘
 
